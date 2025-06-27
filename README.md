@@ -13,10 +13,6 @@ This is a simple Tkinter-based GUI app that recognizes handwritten digits using 
 Install dependencies:
 pip install -r requirements.txt
 
-csharp
-Copy
-Edit
-
 ## ▶ How to Run
 Make sure `digit_model.h5` is in the same folder.
 
