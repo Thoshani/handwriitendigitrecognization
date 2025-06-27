@@ -35,7 +35,8 @@ ACCURACY
 
 
 output
-https://github.com/Thoshani/handwriitendigitrecognization/blob/main/Screenshot%202025-06-27%20202519.png
+![image](https://github.com/user-attachments/assets/e57f218f-d1ed-441b-a6ff-7539768460b0)
+
 
 
 ## Built With
