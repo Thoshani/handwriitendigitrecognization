@@ -33,6 +33,11 @@ ACCURACY
 ![image](https://github.com/user-attachments/assets/b9e3ea5a-839c-4da9-8bfe-452c1a54635d)
 
 
+
+output
+https://github.com/Thoshani/handwriitendigitrecognization/blob/main/Screenshot%202025-06-27%20202519.png
+
+
 ## Built With
 - Python
 - Tkinter
