@@ -2,6 +2,7 @@
 #  Handwritten Digit Recognizer
 
 This is a simple Tkinter-based GUI app that recognizes handwritten digits using a trained CNN model on the MNIST dataset.
+![image](https://github.com/user-attachments/assets/b9e3ea5a-839c-4da9-8bfe-452c1a54635d)
 
 ## Features
 - Draw a digit on canvas
